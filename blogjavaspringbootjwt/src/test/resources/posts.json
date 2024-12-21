@@ -1,0 +1,21 @@
+[
+  {
+    "id": "cd48fd33-c06c-487c-a4be-efc3c0f740a1",
+    "title": "Post 1",
+    "body": "Content of Post 1",
+    "publicationDate": "2023-12-01T10:00:00"
+  },
+  {
+    "id": "6b035d56-26d0-4488-8d03-cddab081ea4d",
+    "title": "Post 2",
+    "body": "Content of Post 2",
+    "publicationDate": "2023-12-02T12:00:00"
+  },
+  {
+    "id": "5dd71ec3-5b4d-496f-81cb-d2df52b28edb",
+    "title": "Post 3",
+    "body": "Content of Post 3",
+    "publicationDate": "2023-12-03T15:00:00"
+  }
+]
+
